@@ -5,6 +5,7 @@
 
 <Version: 1.06>
 /data/Map005.json https://raw.githubusercontent.com/castro707ezeq436/UpdaterForProject/master/Map005.json
+/data/Map011.json https://raw.githubusercontent.com/castro707ezeq436/UpdaterForProject/master/Map011.json
 /img/characters/dog_corgi.png https://i.imgur.com/bKHRnWM.png
 /img/characters/dog_sntbernard.png https://i.imgur.com/3XfywkE.png
 /img/characters/dog_scottie.png https://i.imgur.com/pguhiS9.png
