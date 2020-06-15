@@ -13,4 +13,5 @@
 /img/characters/dogs_bandana.png https://i.imgur.com/QuPo2HG.png
 /img/characters/ducks.png https://i.imgur.com/ANq0dMn.png
 /img/characters/ducks_swim.png https://i.imgur.com/dQfgMSM.png
+/img/characters/People3.png https://i.imgur.com/frVQu4a.png
 <End of Version>
