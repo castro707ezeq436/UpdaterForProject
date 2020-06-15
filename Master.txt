@@ -3,7 +3,7 @@
 /data/Map005.json https://raw.githubusercontent.com/castro707ezeq436/UpdaterForProject/master/Map005.json
 <End of Version>
 
-<Version: 1.01>
+<Version: 1.07>
 /data/Map005.json https://raw.githubusercontent.com/castro707ezeq436/UpdaterForProject/master/Map005.json
 /data/Map011.json https://raw.githubusercontent.com/castro707ezeq436/UpdaterForProject/master/Map011.json
 /img/characters/dog_corgi.png https://i.imgur.com/bKHRnWM.png
