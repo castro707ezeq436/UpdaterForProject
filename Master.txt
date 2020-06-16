@@ -16,3 +16,15 @@
 /img/characters/ducks_swim.png https://i.imgur.com/dQfgMSM.png
 /img/characters/People3.png https://i.imgur.com/frVQu4a.png
 <End of Version>
+
+<Version: 1.08>
+/data/Map005.json https://raw.githubusercontent.com/castro707ezeq436/UpdaterForProject/master/Map005.json
+/data/Map011.json https://raw.githubusercontent.com/castro707ezeq436/UpdaterForProject/master/Map011.json
+/img/characters/$E_Slime_attacking.png https://i.imgur.com/NqdvXLx.png
+/img/characters/$E_Slime_casting.png https://i.imgur.com/02Y3NNo.png
+/img/characters/$E_Slime_act01.png https://i.imgur.com/1VfJh7B.png
+/img/characters/$E_Slime_damage.png https://i.imgur.com/J0tBxjr.png
+/img/characters/$E_Slime.png https://i.imgur.com/Fvxph7Z.png
+/img/characters/$E_Slime_act.png https://i.imgur.com/CUhLNxI.png
+/img/animations/Leaf01 https://i.imgur.com/7IQCkz0.png
+<End of Version>
