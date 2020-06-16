@@ -35,6 +35,6 @@
 /img/characters/$E_Slime_casting.png https://i.imgur.com/EcPwGfC.png
 <End of Version>
 
-<Version: 1.10>
-/img/characters/$Leaf01 https://i.imgur.com/pcsYdls.png
+<Version: 1.11>
+/img/characters/$Leaf01 https://i.imgur.com/qcCcJCM.png
 <End of Version>
