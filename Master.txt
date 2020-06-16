@@ -28,3 +28,9 @@
 /img/characters/$E_Slime_act.png https://i.imgur.com/CUhLNxI.png
 /img/animations/Leaf01 https://i.imgur.com/7IQCkz0.png
 <End of Version>
+
+<Version: 1.09>
+/data/Map005.json https://raw.githubusercontent.com/castro707ezeq436/UpdaterForProject/master/Map005.json
+/img/characters/$E_Slime_attacking.png https://i.imgur.com/Oq78qmv.png
+/img/characters/$E_Slime_casting.png https://i.imgur.com/EcPwGfC.png
+<End of Version>
